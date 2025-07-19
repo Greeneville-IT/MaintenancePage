@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <title>The Lead Platform – Maintenance Mode</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="icon" href="public/logo.png" />
-  <link rel="icon" type="image/x-icon" href="public/favicon.ico">
+  <link rel="icon" href="/logo.png" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <style>
     body {
       min-height: 100vh;
@@ -154,7 +154,7 @@
   </style>
 </head>
 <body>
-  <img src="public/logo.png" alt="The Lead Platform" class="logo" />
+  <img src="/logo.png" alt="The Lead Platform" class="logo" />
   <div class="main-title">
     The Lead Platform
   </div>
